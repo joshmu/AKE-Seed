@@ -5,6 +5,6 @@
 - Express for the server
 
 ## Setup
-  Replace the secret
-  Replace the env variables
-  Configure keystone api services
+- Replace the secret
+- Replace the env variables
+- Configure keystone api services
