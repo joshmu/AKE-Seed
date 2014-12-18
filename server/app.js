@@ -15,7 +15,7 @@ var app = express();
 app.set('port', process.env.PORT || 3000);
 
 // keystone
-app.keystone = require('first-keystone');
+app.keystone = require('content');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

@@ -11,8 +11,8 @@ var keystone = require('keystone');
 
 keystone.init({
 
-	'name': 'first-keystone',
-	'brand': 'first-keystone',
+	'name': 'content',
+	'brand': 'content',
 
 	// 'sass': 'public',
 	// 'static': 'public',
