@@ -1,4 +1,4 @@
-# AKE Seed
+# AngularJS + KeystoneJS + ExpressJS
 ----------------------
 - Angular for the client
 - Keystone for the content
