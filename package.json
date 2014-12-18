@@ -1,0 +1,17 @@
+{
+  "name": "AKE-Seed",
+  "version": "0.0.1",
+  "description": "Angular-Keystone-Express-Seed",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "keywords": [
+    "angular",
+    "keystone",
+    "express",
+    "seed"
+  ],
+  "author": "Josh Mu",
+  "license": "MIT"
+}
