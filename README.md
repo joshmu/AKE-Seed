@@ -7,7 +7,7 @@
 ## Setup
 - Replace the secret
 - Replace the env variables
-- Configure keystone api services
+- Configure keystone api services (Cloudinary, Mandrill)
 
 ## Admin
 localhost:3000/keystone
