@@ -8,3 +8,8 @@
 - Replace the secret
 - Replace the env variables
 - Configure keystone api services
+
+## Admin
+localhost:3000/keystone
+email: admin@admin.com
+password: adminadmin
