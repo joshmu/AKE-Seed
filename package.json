@@ -12,6 +12,10 @@
     "express",
     "seed"
   ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/joshmu/AKE-Seed.git"
+  },
   "author": "Josh Mu",
   "license": "MIT"
 }
